@@ -1,0 +1,42 @@
+#c1{
+
+border:5px solid goldenrod;
+}
+
+#r1{
+
+    border:1px solid;
+    height: 400px;
+    background-color:#e9ecef;
+
+}
+
+#logo{
+    height: 170px;
+}
+
+.content1{
+
+    background-color:#d4edda
+    ;
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #C3E6E0;
+    /* height:50px; */
+
+   
+}
+div {
+    display: block;
+}
+.text-center {
+    text-align: center!important;
+}
+.content1 .con{
+
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
